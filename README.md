@@ -62,5 +62,6 @@ MIT License — free to build with.
 ---
 
 ## 🔗 Stay Connected
-- Twitter: [@RentDueCoin](https://x.com/rentduecoin)
-- Website: [RentDueCoin.com](http://rentduecoin.com)
+- Twitter: [https://x.com/RENNYRENTTOKEN?t=M60mR-JbQzRlNoJcDbdNgw&s=09]
+- Website: (https://nioctibinu.online)
+  
