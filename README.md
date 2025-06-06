@@ -1,34 +1,29 @@
 # Rent Due Coin ($RENTDUE)
 
-**Welcome to the official GitHub repo for Rent Due Coin – the world’s first utility meme coin for rent payments.**
+**The world's first utility meme coin for rent payments – built on Solana.**
 
 ---
 
 ## 💡 What is Rent Due Coin?
-Rent Due Coin ($RENTDUE) is a Solana-based cryptocurrency designed to make rent payments faster, cheaper, and borderless. We're removing banks and middlemen from the process by leveraging blockchain technology.
+Rent Due Coin ($RENTDUE) is a Solana-based token designed to simplify global rent payments. It eliminates banks and middlemen, offering fast, low-fee, and borderless transactions.
 
 ---
 
-## 📱 Rent Tracker App (Coming Soon)
-We are currently developing the **Rent Tracker** MVP – a simple, user-friendly dApp to:
-- Send and receive rent payments in $RENTDUE
-- Set rent reminders
-- View payment history
-- Stake and earn rewards
+## 📱 Rent Tracker dApp (Coming Soon)
+We're building the Rent Tracker MVP with:
+- Wallet-to-wallet rent payments
+- Smart reminders
+- Payment history
+- Staking + rewards
 
-Expected launch: **Q3 2025**
+Launch target: **Q3 2025**
 
 ---
 
-## 📦 Repo Contents
+## 📦 Repo Structure
 
-### `/smart-contracts`
-Placeholder for upcoming Anchor-based Solana smart contracts.
-
+### `/smart-contracts/lib.rs`
 ```rust
-// Example SPL Token program
-// Placeholder only – actual contract coming soon
-
 use anchor_lang::prelude::*;
 
 #[program]
@@ -44,27 +39,28 @@ pub mod rent_due_coin {
 pub struct Initialize {}
 ```
 
-### `/rent-tracker-app`
-Coming soon: dApp MVP frontend + backend integration code
+### `/rent-tracker-app/COMING_SOON.md`
+```
+Rent Tracker MVP code coming soon 🚧
+```
 
 ---
 
-## 📍 Roadmap
-- ✅ Token Launch (Presale ongoing)
-- 🔄 Smart Contract Development (Anchor)
-- 🛠 MVP dApp – Rent Tracker (Q3 2025)
-- 💳 Solana Pay Integration
-- 🎨 NFT Badges & Reputation System
-- 📈 Staking & Rent Incentives
+## 🗺 Roadmap
+- ✅ Token Launch + Presale
+- 🔐 Smart Contracts (Anchor)
+- 📲 MVP dApp
+- 💸 Solana Pay Integration
+- 🎖 NFT Reputation System
+- 📈 Staking for Rent Discounts
 
 ---
 
 ## 📄 License
-This project will be open-sourced under the **MIT License**.
+MIT License — free to build with.
 
 ---
 
-## 🤝 Contribute
-We’ll open contributions after the initial MVP release. Stay tuned!
-
-Follow us on Twitter [@Rennyrenttoken] (https://nioctibinu.online)) for updates.
+## 🔗 Stay Connected
+- Twitter: [@RentDueCoin](https://x.com/rentduecoin)
+- Website: [RentDueCoin.com](http://rentduecoin.com)
